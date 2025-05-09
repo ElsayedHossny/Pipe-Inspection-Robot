@@ -13,6 +13,9 @@
 
 ---
 
+![Arch Project](https://raw.githubusercontent.com/ElsayedHossny/Pipe-Inspection-Robot/main/Arch_Project.jpg)
+
+
 ## **Project Overview**
 This project presents an intelligent pipe inspection robot that combines embedded control with AI capabilities. 
 It uses an **ATmega32** microcontroller for real-time motor and sensor handling, 
