@@ -11,17 +11,12 @@
 - **Hazem Mohamed Hamdy**  
 - **Bassem Osama Sobhy**
 
----
-
-## Architectural Diagram of the Project
+## ⚙️ Architectural Diagram of the Project
 
 ![Arch Project](https://raw.githubusercontent.com/ElsayedHossny/Pipe-Inspection-Robot/main/Arch_Project.jpg)
-
 This diagram illustrates the overall design of the project and how the system is planned.
 
----
-
-## **Project Overview**
+## 🎯 Project Overview
 This project presents an intelligent pipe inspection robot that combines embedded control with AI capabilities. 
 It uses an **ATmega32** microcontroller for real-time motor and sensor handling, 
 while a **Raspberry Pi 4** runs a **Graphical User Interface (GUI)** for control and hosts an **AI model** to detect cracks in the pipeline via a mounted camera.
