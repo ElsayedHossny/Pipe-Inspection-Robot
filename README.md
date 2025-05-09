@@ -2,6 +2,8 @@
 ### *Graduation Project Team: DJNZ*  
 **A revolution in pipeline inspection technology!**
 
+---
+
 ## **Team Members:**
 - **Elsayed Hossny Elsayed**  
 - **Hamdy Ayman Hamdy**  
@@ -31,7 +33,7 @@ while a **Raspberry Pi 4** runs a **Graphical User Interface (GUI)** for control
 - **Embedded Systems:**  ATmega32, Raspberry Pi.
 - **Sensors:** Camera Modules.
 - **Software:** Python, OpenCV, ROS (Robot Operating System).
-- **Communication:** Wire by Ethernet.
+- **Communication:** Ethernet Communication.
 - **Mechanical Design:** 3D Modeling and Simulation, CAD.
 
 ---
