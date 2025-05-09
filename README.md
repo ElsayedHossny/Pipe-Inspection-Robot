@@ -22,7 +22,7 @@ while a **Raspberry Pi 4** runs a **Graphical User Interface (GUI)** for control
 
 ## ⚙️ Architectural Diagram of the Project
 
-![Arch Project](https://raw.githubusercontent.com/ElsayedHossny/Pipe-Inspection-Robot/main/Arch_Project_.jpg)
+![Arch Project](https://raw.githubusercontent.com/ElsayedHossny/Pipe-Inspection-Robot/main/Arch_Project_1.jpg)
 
 This diagram illustrates the overall design of the project and how the system is planned.
 
