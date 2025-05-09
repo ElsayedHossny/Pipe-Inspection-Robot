@@ -83,7 +83,3 @@ while a **Raspberry Pi 4** runs a **Graphical User Interface (GUI)** for control
 - **Runtime**: Optimized for Raspberry Pi 4
 
 ---
-
-## 📁 Folder Structure
-
-
